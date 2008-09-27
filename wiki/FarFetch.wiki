@@ -1,4 +1,4 @@
-#summary FarFetch is a layer that augments the Fetch data storage system
+#summary FarFetch is a class that augments the Fetch data storage system
 #labels Phase-Implementation
 
 = Introduction =
