@@ -1,0 +1,11 @@
+#summary Description of a Compound
+#labels Phase-Design
+
+= Introduction =
+
+A Compound is the collective name for a function of the application. Compounds consist of a Controller, Model, and View.
+
+
+= Details =
+
+Compounds are the workhorses of a Boundless application. They are essentially a group of functions that access a common database table for different purposes, and the associated template files to display the output of each function.
