@@ -7,4 +7,4 @@ Boundless is a PHP Framework -- it provides you with the tools to build web appl
 
 = Details =
 
-Fresh distributions of Boundless come with a few "[http://code.google.com/p/boundless/w/Compounds Compounds]" - Access, Categories, Classes, Pages, and Users. Applications built on Boundless are collections of Compounds that work together or independently.
+Fresh distributions of Boundless come with a few "[http://code.google.com/p/boundless/wiki/Compound Compounds]" - Access, Categories, Classes, Pages, and Users. Applications built on Boundless are collections of Compounds that work together or independently.
