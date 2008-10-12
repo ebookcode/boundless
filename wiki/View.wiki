@@ -1,0 +1,6 @@
+#summary Description of a View
+#labels Phase-Design
+
+= Introduction =
+
+A View is a PHP/HTML file that is responsible for displaying the output of a Controller function. View files are provided data through the reserved variable, `$_v`, which is declared and populated with the variables from the Controller function that was executed. PHP in the View file can dynamically display this data. In keeping with the MVC architecture of Boundless, PHP used in view files should be restricted to performing display-related logic only.
