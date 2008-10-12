@@ -3,7 +3,7 @@
 
 = Introduction =
 
-A Compound is the collective name for a function of the application. Compounds consist of a Controller, Model, and View.
+A Compound is the collective name for a function of the application. Compounds consist of a [http://code.google.com/p/boundless/wiki/Controller Controller], [http://code.google.com/p/boundless/wiki/Model Model], and [http://code.google.com/p/boundless/wiki/View View].
 
 
 = Details =
