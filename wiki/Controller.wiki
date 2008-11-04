@@ -3,4 +3,4 @@
 
 = Introduction =
 
-Controllers are Objects that contain the main functions of a Compound. Boundless passes data from the user through the parameters of the active function. Controller functions can access the Model of their parent Compound, or other Compounds. The return value of each function must be an array of variables, to be passed to the View file.
+Controllers are Objects that contain the main functions of a Compound. Boundless passes data from the user through the parameters of the active function. Controller functions can access the Model of their parent Compound, or other Compounds. The return value of each function must be an array of variables, which is passed to the View file.
