@@ -1,0 +1,11 @@
+# Introduction #
+
+Fetch databases can literally only store data. A solution was needed to turn Fetch into a more robust data storage system, primarily one that takes the burden of data validation off the developer. FarFetch goes on top of Fetch to provide this functionality.
+
+# Details #
+
+FarFetch mainly provides data validation for Fetch databases. FarFetch distinguishes between different types of data, and allows restrictions to be specified on each data field (e.g. minimum string length).
+
+# Implementation #
+
+A FarFetch database is really two separate Fetch tables -- one for the configuration, and one for the actual data. The configuration table holds the data type and parameters for each field in the FarFetch table. The data table holds the actual data entered into the FarFetch database.

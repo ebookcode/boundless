@@ -1,0 +1,7 @@
+# Introduction #
+
+Fetch is a data storage system that uses physical files on the server for storage rather than a server-side software like mySQL to store data.
+
+# Details #
+
+Fetch is used by Boundless through the FarFetch layer, which augments it's capabilities.
